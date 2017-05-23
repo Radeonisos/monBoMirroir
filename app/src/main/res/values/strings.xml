@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MonMirroir</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_success">login success</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Nom</string>
+    <string name="Password">Prénom</string>
+    <string name="repeat_password">retaper Prénom</string>
+    <string name="go">GO</string>
+    <string name="next">NEXT</string>
+    <string name="register">REGISTER</string>
+</resources>

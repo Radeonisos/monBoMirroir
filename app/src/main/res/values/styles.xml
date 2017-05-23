@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:windowTranslucentStatus" tools:targetApi="19">true</item>
+
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBar">false</item>
+
+        <!-- Material Theme -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/accent_color</item>
+
+        <item name="android:statusBarColor" tools:targetApi="21">@color/statusBarColor</item>
+        <item name="android:navigationBarColor" tools:targetApi="21">@color/navigationBarColor</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" tools:targetApi="21">true</item>
+
+    </style>
+    <style name="Translucent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">#0288D1</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+    </style>
+    <style name="TextLabel" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Label color in TRUE state and bar color FALSE and TRUE State -->
+        <item name="colorControlActivated">#FFCC00</item>
+    </style>
+</resources>
