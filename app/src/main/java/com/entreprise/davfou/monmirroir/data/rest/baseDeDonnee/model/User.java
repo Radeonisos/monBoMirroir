@@ -1,4 +1,4 @@
-package com.entreprise.davfou.monmirroir.model;
+package com.entreprise.davfou.monmirroir.data.rest.baseDeDonnee.model;
 
 /**
  * Created by davidfournier on 06/05/2017.

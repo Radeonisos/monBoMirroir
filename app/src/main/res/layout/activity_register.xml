@@ -124,7 +124,7 @@
                    android:stateListAnimator="@drawable/state_list_animator_z"
                    android:layout_width="150dp"
                    android:layout_height="50dp"
-                   android:text="@string/next"
+                   android:text="@string/register"
                    android:textColor="#2fa881"
                    >
                </Button>

@@ -8,7 +8,6 @@
     <string name="Username">Nom</string>
     <string name="Password">Prénom</string>
     <string name="repeat_password">retaper Prénom</string>
-    <string name="go">GO</string>
-    <string name="next">NEXT</string>
-    <string name="register">REGISTER</string>
+    <string name="go">Connexion</string>
+    <string name="register">Inscription</string>
 </resources>

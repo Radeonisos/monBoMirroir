@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.entreprise.davfou.monmirroir.MainActivity">
+    tools:context="com.entreprise.davfou.monmirroir.presentation.view.activity.login.MenuActivity.MainActivity">
 
     <FrameLayout
         android:id="@+id/frame_container"
